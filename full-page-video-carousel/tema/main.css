@@ -1,0 +1,19 @@
+body{
+	font-family: 'Quicksand', sans-serif;
+}
+a{
+	font-family: 'Nunito', sans-serif;
+}
+.svg{
+	width: 36px;
+	height: 36px;
+}
+.ad {
+    display: inline-block;
+    padding-left: 4px;
+    font-family: serif;
+    color: white;
+}
+.navbar-cs{
+	background-color: #004c3f;
+}

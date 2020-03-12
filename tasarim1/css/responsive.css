@@ -1,0 +1,136 @@
+@media only screen and (max-width: 1024px){
+	.text-custom1 {
+		font-size: .8rem;
+	}
+	.telTop {
+		font-size: 1.15rem;
+	}
+	.nav-link {
+		font-size: 1.10rem;
+		padding-bottom: 1.375rem;
+		line-height: 1;
+	}
+	.svgSlide {
+		width: 3rem;
+	}
+	.media-body h5 {
+		font-size: 1rem;
+	}
+	.media-body p {
+		font-size: 0.65rem;
+	}
+	.flip-card-front, .flip-card-back {
+		min-height: 110px;
+	}
+	.flip-card {
+		min-height: 110px;
+	}
+	.carousel-caption {
+		top: 22%;
+		left: 10%;
+		width: 40%;
+		max-height: 40%;
+	}
+	p.card-text {
+		font-size: .875rem;
+	}
+	.flipAnchor {
+		font-size: 2rem;
+	}
+}
+@media only screen and (max-width: 768px){
+	.text-custom1 {
+		font-size: .62rem;
+	}
+	.telTop {
+		font-size: .77rem;
+	}
+	.nav-link {
+		font-size: 1.10rem;
+		padding-bottom: 1.375rem;
+		line-height: 1;
+	}
+	.svgSlide {
+		width: 1.7rem;
+	}
+	.media-body h5 {
+		font-size: .71rem;
+	}
+	.media-body p {
+		font-size: 0.6rem;
+	}
+	.flip-card-front, .flip-card-back {
+		min-height: 95px;
+	}
+	.flip-card {
+		min-height: 95px;
+	}
+	.flipAnchor {
+		font-size: 1rem;
+	}
+	.carousel-caption {
+		width: 50%;
+		max-height: 48%;
+		top: 10%;
+	}
+	.carousel-caption h5{
+		font-size: .8rem;
+	}
+	.carousel-caption p{
+		font-size: .68rem;
+	}
+	p.card-text {
+		font-size: .675rem;
+	}
+	li.list-group-item {
+		font-size: 0.68rem;
+	}
+	.card-title {
+		color: #4bae4f;
+		font-size: 1.3rem;
+		font-weight: 600;
+		font-style: normal;
+		letter-spacing: 1px;
+	}
+	div.gallery a {
+		width: 47%;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	.news{
+		margin: 10px auto;
+	}
+}
+@media only screen and (max-width: 768px){
+	.cardsDiv {
+		position: relative;
+		width: 100%!important;
+		margin-left: 0;
+	}
+	.flip-card {
+		min-height: 95px;
+		margin-top: 10px;
+	}
+	.telTop {
+		font-size: 1rem;
+		text-align: center;
+		display: inline-block;
+		margin: 3px auto;
+		width: 100%;
+	}
+	.card-title {
+		color: #4bae4f;
+		font-size: 1.3rem;
+		font-weight: 600;
+		font-style: normal;
+		letter-spacing: 1px;
+	}
+	div.gallery a {
+		width: 47%;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	.news{
+		margin: 10px auto;
+	}
+}
